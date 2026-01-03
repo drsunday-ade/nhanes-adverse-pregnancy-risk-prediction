@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+
+title: "NHANES Adverse Pregnancy History & Early Multimorbidity Risk Signal (NHANES 2017–March 2020)"
+version: "v1.0"
+date-released: "2026-01-02"
+
+authors:
+  - family-names: "Adetunji"
+    given-names: "Sunday A."
+    name-suffix: "MD"
+    affiliation: "Department of Biostatistics and Epidemiology, Oregon State University; Faculty of Clinical Sciences, Obafemi Awolowo University"
+    email: "adetunjs@oregonstate.edu"
+    orcid: "https://orcid.org/0000-0001-9321-9957"
+
+repository-code: "https://github.com/drsunday-ade/nhanes-adverse-pregnancy-risk-prediction"
+url: "https://github.com/drsunday-ade/nhanes-adverse-pregnancy-risk-prediction"
+doi: "10.5281/zenodo.18137283"
+
+license: "MIT"
+
+keywords:
+  - NHANES
+  - adverse pregnancy history
+  - reproductive epidemiology
+  - multimorbidity
+  - cardiometabolic risk
+  - kidney disease
+  - depression
+  - PHQ-9
+  - complex survey
+  - survey-weighted logistic regression
+  - epidemiology
+  - biostatistics
+  - reproducible research
+
+abstract: >
+  Reproducible NHANES 2017–March 2020 (pre-pandemic) survey-weighted analysis assessing whether clustered
+  adverse pregnancy history is associated with early multi-system multimorbidity (≥2 chronic conditions) and
+  moderate-to-severe depressive symptoms (PHQ-9 ≥10) among ever-pregnant U.S. women aged 20–44 years.
+  Includes end-to-end R pipeline and manuscript-ready tables/figures.
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Adetunji"
+      given-names: "Sunday A."
+      name-suffix: "MD"
+      orcid: "https://orcid.org/0000-0001-9321-9957"
+  title: "NHANES Adverse Pregnancy History & Early Multimorbidity Risk Signal (NHANES 2017–March 2020)"
+  version: "v1.0"
+  year: 2026
+  doi: "10.5281/zenodo.18137283"
+  url: "https://github.com/drsunday-ade/nhanes-adverse-pregnancy-risk-prediction"
