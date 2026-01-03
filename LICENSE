@@ -1,5 +1,76 @@
 MIT License
 
+---
+
+## `nhanes_data_urls.txt` (copy/paste)
+
+These URLs follow CDC/NCHS’s official public pages for **documentation** and the corresponding **XPT data files** for **NHANES 2017–March 2020 pre-pandemic**. The documentation pages explicitly list the **Data File: P_*.xpt** for each component. :contentReference[oaicite:1]{index=1}
+
+```text
+NHANES 2017–March 2020 Pre-pandemic (CDC/NCHS) — Official Data URLs
+==================================================================
+
+General landing page (cycle navigation / release notes / analytic guidance):
+https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020
+
+Questionnaire Data listing for 2017–March 2020 (includes Doc + XPT links):
+https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Questionnaire&Cycle=2017-2020
+
+
+1) Demographics (sample weights, strata, PSU)
+---------------------------------------------
+Doc (Data Documentation, Codebook, Frequencies):
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_DEMO.htm
+
+Data (XPT):
+https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_DEMO.XPT
+
+
+2) Reproductive Health (pregnancy history items)
+------------------------------------------------
+Doc:
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_RHQ.htm
+
+Data (XPT):
+https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_RHQ.XPT
+
+
+3) Mental Health — Depression Screener (PHQ-9 items)
+----------------------------------------------------
+Doc:
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_DPQ.htm
+
+Data (XPT):
+https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_DPQ.XPT
+
+
+4) Medical Conditions (self-reported chronic conditions)
+--------------------------------------------------------
+Doc:
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_MCQ.htm
+
+Data (XPT):
+https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_MCQ.XPT
+
+
+5) Blood Pressure & Cholesterol (hypertension/hyperlipidemia history items)
+---------------------------------------------------------------------------
+Doc:
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_BPQ.htm
+
+Data (XPT):
+https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BPQ.XPT
+
+
+6) Kidney Conditions — Urology (kidney disease history items)
+------------------------------------------------------------
+Doc:
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_KIQ_U.htm
+
+Data (XPT):
+https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_KIQ_U.XPT
+
+
 Copyright (c) 2026 Sunday Adetunji, MD
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
